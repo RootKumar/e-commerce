@@ -110,7 +110,7 @@ Contributions are welcome! Please follow these steps:
 
 If you have any questions or feedback, please feel free to reach out:
 
-- **Email:** singhharshvardhan765@gmail.com
-- **GitHub:** [rootinj](https://github.com/rootinj)
+- **Email:** kumarkashyapofficial@gmail.com
+- **GitHub:** [RootKumar](https://github.com/RootKumar)
 
 Thank you for visiting Clothify!
